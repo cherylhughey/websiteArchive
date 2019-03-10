@@ -5,7 +5,7 @@ Enjoy!
 Cheryl
 
 
-## About the open source code used as the foundation for this project:
+About the open source code used as the foundation for this project:
 
 From the original README: 
 
